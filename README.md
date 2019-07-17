@@ -4,7 +4,7 @@ Day 1: Javascript 30 days challenge. All through 30 days, I'll be building thing
 
 ## Challenge Road Map
 
-Pivotal-tracker board [Pivotal-board](https://docs.google.com/presentation/d/1IjvC1Y6Futdxc7jR43agokuKoU38iCMTvTyJOCBBH2c/edit#slide=id.g57b83b523f_0_666) and [road map](article)
+Pivotal-tracker board [Pivotal-board](https://www.pivotaltracker.com/n/projects/2373400) and [road map](article)
 
 ### Requirements
 
