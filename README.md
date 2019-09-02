@@ -1,6 +1,10 @@
+![version](https://img.shields.io/badge/version-1.2.3-blue) ![codacy](https://img.shields.io/badge/codacy-B-green) 
+![Twitter Follow](https://img.shields.io/twitter/follow/Anayo_Oleru?style=social)
 
 # JavascriptDrumkit
 Day 1: Javascript 30 days challenge. All through 30 days, I'll be building things, a lot of things. Drum Kit is a fun to play drum, that plays the sound when you hit the corresponding keyboard. More about this on the readme..
+
+https://anayooleru.github.io/JavascriptDrumkit/
 
 ### 30DaysCodeChallenge:
 Javascript 30 days challenge. All through 30 days, I'll be building things, a lot of things. I never did decide on a side project, but that’s okay! Over the first 30 days of the challenge, I focused on exploring different areas of programming I have not had the chance to explore yet, pure Javascript methods and functions.
@@ -30,7 +34,3 @@ Pivotal-tracker board [Pivotal-board](https://www.pivotaltracker.com/n/projects/
 1. After cloning, open up the file folder.
 2. Run the `index.html` - on your browser.
 3. Yikes, and that's it and all
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
