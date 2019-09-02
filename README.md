@@ -2,7 +2,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Anayo_Oleru?style=social)
 
 # JavascriptDrumkit
-Day 1: Javascript 30 days challenge. All through 30 days, I'll be building things, a lot of things. Drum Kit is a fun to play drum, that plays the sound when you hit the corresponding keyboard. More about this on the readme..
+Day 1: A collection of drums and other percussion instruments. Fun to play drum, you can customize your a song, a beat or try out any sound you want, just by hitting the corresponding keys on your keyboard.
 
 https://anayooleru.github.io/JavascriptDrumkit/
 
